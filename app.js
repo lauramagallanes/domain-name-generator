@@ -3,15 +3,7 @@ var adj = ["great", "big"];
 var noun = ["jogger", "racoon"];
 var ext = [".com", ".net", ".us", ".io"];
 
-// for (let i = 0; i < pronoun.length; i++) {
-//     for (let j = 0; j < adj.length; j++) {
-//         for (let k = 0; k < noun.length; k++) {
-//             for (let n = 0; n < ext.length; n++) {
-//                 console.log(pronoun[i] + adj[j] + noun[k] + ext[n]);
-//             }
-//         }
-//     }
-// }
+//bucle for
 
 for (let i = 0; i < pronoun.length; i++) {
     for (let j = 0; j < adj.length; j++) {
